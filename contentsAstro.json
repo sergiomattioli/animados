@@ -14,7 +14,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -157,7 +157,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -294,7 +294,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -413,7 +413,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -550,7 +550,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -694,7 +694,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -771,7 +771,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -878,7 +878,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -985,7 +985,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"sponge, bob, cartoon",
          "stickers":[
             {
@@ -1122,7 +1122,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"homer, bart, lisa, marge",
          "stickers":[
             {
@@ -1253,7 +1253,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1396,7 +1396,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1557,7 +1557,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1712,7 +1712,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1849,7 +1849,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1968,7 +1968,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -2111,7 +2111,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,         
+         "visible":false,         
          "tags":"",
          "stickers":[
             {
@@ -2308,7 +2308,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,         
+         "visible":false,         
          "tags":"",
          "stickers":[
             {
@@ -2469,7 +2469,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,         
+         "visible":false,         
          "tags":"",
          "stickers":[
             {
@@ -2582,7 +2582,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,         
+         "visible":false,         
          "tags":"",
          "stickers":[
             {
@@ -2683,7 +2683,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -2820,7 +2820,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -2981,7 +2981,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -3733,7 +3733,7 @@
          "tags":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,
+         "visible":false,
          "stickers":[
             {
                "image_file":"1.webp",
@@ -3863,7 +3863,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -4024,7 +4024,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
@@ -4131,7 +4131,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,    
+         "visible":false,    
          "tags":"",
          "stickers":[
             {
@@ -4244,7 +4244,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,         
+         "visible":false,         
          "tags":"",
          "stickers":[
             {
@@ -4327,7 +4327,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,         
+         "visible":false,         
          "tags":"",
          "stickers":[
             {
