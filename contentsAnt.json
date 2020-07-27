@@ -1,15 +1,1480 @@
 {
-   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.animados",
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"love1",
-         "name":"Pack Love 1",
-         "publisher":"Astro Mobile",
+         "identifier":"memestrump",
+         "name":"Memes Trump",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memes3",
+         "name":"Memes 3",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memes2",
+         "name":"Memes 2",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memessoccer",
+         "name":"Memes Soccer",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"fortnite",
+         "name":"Fortnite",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"cupido",
+         "name":"Cupido",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"brownandcony",
+         "name":"Brown and Cony",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"bearcute1",
+         "name":"Bear Cute 1",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"bearcute2",
+         "name":"Bear Cute 2",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"sheep",
+         "name":"Pack Sheep",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"owl",
+         "name":"Pack Owl",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"love1",
+         "name":"Pack Love 1",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -148,16 +1613,16 @@
       {
          "identifier":"ok",
          "name":"Pack Ok",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -267,34 +1732,22 @@
                "emojis":[
 
                ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-
-               ]
             }
          ]
       },
       {
          "identifier":"memes1",
          "name":"Pack Memes 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -404,16 +1857,16 @@
       {
          "identifier":"pikachu",
          "name":"Pack Pikachu",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -541,16 +1994,16 @@
       {
          "identifier":"pokemon",
          "name":"Pack Pokemon",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -679,22 +2132,21 @@
 
                ]
             }
-
          ]
       },
       {
          "identifier":"squidward",
          "name":"Pack Squidward",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -762,16 +2214,16 @@
       {
          "identifier":"rickandmorty1",
          "name":"Pack Rick and Morty 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -869,16 +2321,16 @@
       {
          "identifier":"rickandmorty2",
          "name":"Pack Rick and Morty 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -976,16 +2428,16 @@
       {
          "identifier":"patricio",
          "name":"Pack Patricio",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"sponge, bob, cartoon",
          "stickers":[
             {
@@ -1113,16 +2565,16 @@
       {
          "identifier":"simpsons1",
          "name":"Pack The Simpsons",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"homer, bart, lisa, marge",
          "stickers":[
             {
@@ -1241,19 +2693,19 @@
             }
          ]
       },
-            {
+      {
          "identifier":"diggy2",
          "name":"Diggy 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1387,16 +2839,16 @@
       {
          "identifier":"psy1",
          "name":"Psy 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1548,16 +3000,16 @@
       {
          "identifier":"psy2",
          "name":"Psy 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1703,16 +3155,16 @@
       {
          "identifier":"blanco",
          "name":"Blanco",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1837,19 +3289,19 @@
             }
          ]
       },
-            {
+      {
          "identifier":"mrcat",
          "name":"Mr Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -1959,16 +3411,16 @@
       {
          "identifier":"diggy1",
          "name":"Diggy 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"perro, telegram",
          "stickers":[
             {
@@ -2102,16 +3554,16 @@
       {
          "identifier":"capoo",
          "name":"Capoo",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -2299,16 +3751,16 @@
       {
          "identifier":"fluffys",
          "name":"Fluffys",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -2460,16 +3912,16 @@
       {
          "identifier":"bicho1",
          "name":"Bicho 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -2573,16 +4025,16 @@
       {
          "identifier":"bicho2",
          "name":"Bicho 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -2674,16 +4126,16 @@
       {
          "identifier":"pusheen1",
          "name":"Pusheen 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -2811,17 +4263,17 @@
       {
          "identifier":"ardilla",
          "name":"Ardilla",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
-         "tags":"gato, telegram",
+         "visible":true,
+         "tags":"telegram",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -2972,16 +4424,16 @@
       {
          "identifier":"pusheen2",
          "name":"Pusheen 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"gato, telegram",
          "stickers":[
             {
@@ -3109,16 +4561,16 @@
       {
          "identifier":"love2",
          "name":"Love 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -3306,11 +4758,11 @@
       {
          "identifier":"love3",
          "name":"Love 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3503,11 +4955,11 @@
       {
          "identifier":"love4",
          "name":"Love 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3592,11 +5044,11 @@
       {
          "identifier":"love5",
          "name":"Love 5",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
@@ -3723,11 +5175,11 @@
       {
          "identifier":"love6",
          "name":"Love 6",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
@@ -3854,11 +5306,11 @@
       {
          "identifier":"love7",
          "name":"Love 7",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4015,11 +5467,11 @@
       {
          "identifier":"love8",
          "name":"Love 8",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4122,16 +5574,16 @@
       {
          "identifier":"love9",
          "name":"Love 9",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,    
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -4235,16 +5687,16 @@
       {
          "identifier":"couples",
          "name":"Couples",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":false,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
@@ -4318,16 +5770,16 @@
       {
          "identifier":"crazylove",
          "name":"Crazy Love",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":false,
-         "visible":true,         
+         "visible":true,
          "tags":"",
          "stickers":[
             {
