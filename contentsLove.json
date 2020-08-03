@@ -14,7 +14,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":false,
+         "visible":true,
          "tags":"",
          "stickers":[
             {
