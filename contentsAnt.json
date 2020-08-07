@@ -3,6 +3,274 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clashanimated",
+         "name":"Clash Royale (2)",
+         "publisher":"Ant Space Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"clashreaction",
+         "name":"Clash Royale (1)",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"chavodel8",
          "name":"Chavo del 8",
          "publisher":"Ant Space",
@@ -118,11 +386,11 @@
       {
          "identifier":"cutenurse",
          "name":"Cute Nurse",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -225,11 +493,11 @@
       {
          "identifier":"tidytiecat",
          "name":"Tidyt Tie Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -368,11 +636,11 @@
       {
          "identifier":"southpark1",
          "name":"South Park",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -481,11 +749,11 @@
       {
          "identifier":"sloth",
          "name":"Sloth",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -618,11 +886,11 @@
       {
          "identifier":"ricardo",
          "name":"Ricardo",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -725,11 +993,11 @@
       {
          "identifier":"johnnybravo",
          "name":"Johnny Bravo",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -850,11 +1118,11 @@
       {
          "identifier":"fredthepug",
          "name":"Fred the Pug",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1017,11 +1285,11 @@
       {
          "identifier":"emoji7",
          "name":"Emoji 7",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1124,11 +1392,11 @@
       {
          "identifier":"emoji6",
          "name":"Emoji 6",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1279,11 +1547,11 @@
       {
          "identifier":"emoji5",
          "name":"Emoji 5",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1476,11 +1744,11 @@
       {
          "identifier":"emoji4",
          "name":"Emoji 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1667,11 +1935,11 @@
       {
          "identifier":"blackcat",
          "name":"Black Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1774,11 +2042,11 @@
       {
          "identifier":"blackcat",
          "name":"Black Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1881,11 +2149,11 @@
       {
          "identifier":"mimo",
          "name":"Mimo",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1988,11 +2256,11 @@
       {
          "identifier":"duck",
          "name":"Duck",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2101,11 +2369,11 @@
       {
          "identifier":"green",
          "name":"Green Frog",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2208,11 +2476,11 @@
       {
          "identifier":"square",
          "name":"Square",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2291,11 +2559,11 @@
       {
          "identifier":"siberian",
          "name":"Siberian",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2428,11 +2696,11 @@
       {
          "identifier":"raven",
          "name":"Raven",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2523,11 +2791,11 @@
       {
          "identifier":"emoji3",
          "name":"Emoji 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2720,11 +2988,11 @@
       {
          "identifier":"emoji2",
          "name":"Emoji 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -2899,11 +3167,11 @@
       {
          "identifier":"emoji1",
          "name":"Emoji 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3012,11 +3280,11 @@
       {
          "identifier":"blue",
          "name":"Blue",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3161,11 +3429,11 @@
       {
          "identifier":"memes4",
          "name":"Pack Memes 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3268,11 +3536,11 @@
       {
          "identifier":"frog1",
          "name":"Frog 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3459,11 +3727,11 @@
       {
          "identifier":"frog2",
          "name":"Frog 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3638,11 +3906,11 @@
       {
          "identifier":"bts1",
          "name":"Bts",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3745,11 +4013,11 @@
       {
          "identifier":"realcats1",
          "name":"Real Cats",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3882,11 +4150,11 @@
       {
          "identifier":"memestrump",
          "name":"Memes Trump",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -3983,11 +4251,11 @@
       {
          "identifier":"memes3",
          "name":"Memes 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4060,11 +4328,11 @@
       {
          "identifier":"memes2",
          "name":"Memes 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4167,11 +4435,11 @@
       {
          "identifier":"memessoccer",
          "name":"Memes Soccer",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4286,11 +4554,11 @@
       {
          "identifier":"fortnite",
          "name":"Fortnite",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4441,11 +4709,11 @@
       {
          "identifier":"cupido",
          "name":"Cupido",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4578,11 +4846,11 @@
       {
          "identifier":"brownandcony",
          "name":"Brown and Cony",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4775,11 +5043,11 @@
       {
          "identifier":"bearcute1",
          "name":"Bear Cute 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -4972,11 +5240,11 @@
       {
          "identifier":"bearcute2",
          "name":"Bear Cute 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5103,11 +5371,11 @@
       {
          "identifier":"sheep",
          "name":"Pack Sheep",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5210,11 +5478,11 @@
       {
          "identifier":"owl",
          "name":"Pack Owl",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5347,11 +5615,11 @@
       {
          "identifier":"love1",
          "name":"Pack Love 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5490,11 +5758,11 @@
       {
          "identifier":"ok",
          "name":"Pack Ok",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5615,11 +5883,11 @@
       {
          "identifier":"memes1",
          "name":"Pack Memes 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5734,11 +6002,11 @@
       {
          "identifier":"pikachu",
          "name":"Pack Pikachu",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -5871,11 +6139,11 @@
       {
          "identifier":"pokemon",
          "name":"Pack Pokemon",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6014,11 +6282,11 @@
       {
          "identifier":"squidward",
          "name":"Pack Squidward",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6091,11 +6359,11 @@
       {
          "identifier":"rickandmorty1",
          "name":"Pack Rick and Morty 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6198,11 +6466,11 @@
       {
          "identifier":"rickandmorty2",
          "name":"Pack Rick and Morty 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6305,11 +6573,11 @@
       {
          "identifier":"patricio",
          "name":"Pack Patricio",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6442,11 +6710,11 @@
       {
          "identifier":"simpsons1",
          "name":"Pack The Simpsons",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6573,11 +6841,11 @@
       {
          "identifier":"diggy2",
          "name":"Diggy 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6716,11 +6984,11 @@
       {
          "identifier":"psy1",
          "name":"Psy 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -6877,11 +7145,11 @@
       {
          "identifier":"psy2",
          "name":"Psy 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7032,11 +7300,11 @@
       {
          "identifier":"blanco",
          "name":"Blanco",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7169,11 +7437,11 @@
       {
          "identifier":"mrcat",
          "name":"Mr Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7288,11 +7556,11 @@
       {
          "identifier":"diggy1",
          "name":"Diggy 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7431,11 +7699,11 @@
       {
          "identifier":"capoo",
          "name":"Capoo",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7628,11 +7896,11 @@
       {
          "identifier":"fluffys",
          "name":"Fluffys",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7789,11 +8057,11 @@
       {
          "identifier":"bicho1",
          "name":"Bicho 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -7902,11 +8170,11 @@
       {
          "identifier":"bicho2",
          "name":"Bicho 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8003,11 +8271,11 @@
       {
          "identifier":"pusheen1",
          "name":"Pusheen 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8140,11 +8408,11 @@
       {
          "identifier":"ardilla",
          "name":"Ardilla",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8301,11 +8569,11 @@
       {
          "identifier":"pusheen2",
          "name":"Pusheen 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8438,11 +8706,11 @@
       {
          "identifier":"love2",
          "name":"Love 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8635,11 +8903,11 @@
       {
          "identifier":"love3",
          "name":"Love 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8832,11 +9100,11 @@
       {
          "identifier":"love4",
          "name":"Love 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -8921,11 +9189,11 @@
       {
          "identifier":"love5",
          "name":"Love 5",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
@@ -9052,11 +9320,11 @@
       {
          "identifier":"love6",
          "name":"Love 6",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
@@ -9183,11 +9451,11 @@
       {
          "identifier":"love7",
          "name":"Love 7",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -9344,11 +9612,11 @@
       {
          "identifier":"love8",
          "name":"Love 8",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -9451,11 +9719,11 @@
       {
          "identifier":"love9",
          "name":"Love 9",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -9564,11 +9832,11 @@
       {
          "identifier":"couples",
          "name":"Couples",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -9647,11 +9915,11 @@
       {
          "identifier":"crazylove",
          "name":"Crazy Love",
-         "publisher":"Astro Mobile",
+         "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
