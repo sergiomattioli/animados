@@ -3,9 +3,777 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"goku1",
+         "name":"Goku 1",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"thepig",
+         "name":"The Pig",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"adventuretime",
+         "name":"Adventure Time",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"emojiboy1",
+         "name":"Emoji Boy 1",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"emojiboy2",
+         "name":"Emoji Boy 2",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memes6",
+         "name":"Memes 6",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"pokemon2",
          "name":"Pokemon2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -190,7 +958,7 @@
       {
          "identifier":"dogs3",
          "name":"Dogs 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -351,7 +1119,7 @@
       {
          "identifier":"girl",
          "name":"Girl",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -434,7 +1202,7 @@
       {
          "identifier":"frog3",
          "name":"Frog 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -583,7 +1351,7 @@
       {
          "identifier":"cloud",
          "name":"Cloud",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -780,7 +1548,7 @@
       {
          "identifier":"dogs2",
          "name":"Dogs 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -851,7 +1619,7 @@
       {
          "identifier":"emoji8",
          "name":"Emoji 8",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -1030,7 +1798,7 @@
       {
          "identifier":"love10",
          "name":"Love 10",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -1626,7 +2394,7 @@
       {
          "identifier":"chavodel8",
          "name":"Chavo del 8",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -1739,7 +2507,7 @@
       {
          "identifier":"memes5",
          "name":"Memes 5",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -1906,7 +2674,7 @@
       {
          "identifier":"tomandjerry",
          "name":"Tom and Jerry",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -1977,7 +2745,7 @@
       {
          "identifier":"cutenurse",
          "name":"Cute Nurse",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2084,7 +2852,7 @@
       {
          "identifier":"tidytiecat",
          "name":"Tidyt Tie Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2227,7 +2995,7 @@
       {
          "identifier":"southpark1",
          "name":"South Park",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2340,7 +3108,7 @@
       {
          "identifier":"sloth",
          "name":"Sloth",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2477,7 +3245,7 @@
       {
          "identifier":"ricardo",
          "name":"Ricardo",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2584,7 +3352,7 @@
       {
          "identifier":"johnnybravo",
          "name":"Johnny Bravo",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2709,7 +3477,7 @@
       {
          "identifier":"fredthepug",
          "name":"Fred the Pug",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2876,7 +3644,7 @@
       {
          "identifier":"emoji7",
          "name":"Emoji 7",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -2983,7 +3751,7 @@
       {
          "identifier":"emoji6",
          "name":"Emoji 6",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3138,7 +3906,7 @@
       {
          "identifier":"emoji5",
          "name":"Emoji 5",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3335,7 +4103,7 @@
       {
          "identifier":"emoji4",
          "name":"Emoji 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3526,7 +4294,7 @@
       {
          "identifier":"blackcat",
          "name":"Black Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3633,7 +4401,7 @@
       {
          "identifier":"mimo",
          "name":"Mimo",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3740,7 +4508,7 @@
       {
          "identifier":"duck",
          "name":"Duck",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3853,7 +4621,7 @@
       {
          "identifier":"green",
          "name":"Green Frog",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -3960,7 +4728,7 @@
       {
          "identifier":"square",
          "name":"Square",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4043,7 +4811,7 @@
       {
          "identifier":"siberian",
          "name":"Siberian",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4180,7 +4948,7 @@
       {
          "identifier":"raven",
          "name":"Raven",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4275,7 +5043,7 @@
       {
          "identifier":"emoji3",
          "name":"Emoji 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4472,7 +5240,7 @@
       {
          "identifier":"emoji2",
          "name":"Emoji 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4651,7 +5419,7 @@
       {
          "identifier":"emoji1",
          "name":"Emoji 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4764,7 +5532,7 @@
       {
          "identifier":"blue",
          "name":"Blue",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -4913,7 +5681,7 @@
       {
          "identifier":"memes4",
          "name":"Pack Memes 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5020,7 +5788,7 @@
       {
          "identifier":"frog1",
          "name":"Frog 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5211,7 +5979,7 @@
       {
          "identifier":"frog2",
          "name":"Frog 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5390,7 +6158,7 @@
       {
          "identifier":"bts1",
          "name":"Bts",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5497,7 +6265,7 @@
       {
          "identifier":"realcats1",
          "name":"Real Cats",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5634,7 +6402,7 @@
       {
          "identifier":"memestrump",
          "name":"Memes Trump",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5735,7 +6503,7 @@
       {
          "identifier":"memes3",
          "name":"Memes 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5812,7 +6580,7 @@
       {
          "identifier":"memes2",
          "name":"Memes 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -5919,7 +6687,7 @@
       {
          "identifier":"memessoccer",
          "name":"Memes Soccer",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6038,7 +6806,7 @@
       {
          "identifier":"fortnite",
          "name":"Fortnite",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6193,7 +6961,7 @@
       {
          "identifier":"cupido",
          "name":"Cupido",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6330,7 +7098,7 @@
       {
          "identifier":"brownandcony",
          "name":"Brown and Cony",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6527,7 +7295,7 @@
       {
          "identifier":"bearcute1",
          "name":"Bear Cute 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6724,7 +7492,7 @@
       {
          "identifier":"bearcute2",
          "name":"Bear Cute 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6855,7 +7623,7 @@
       {
          "identifier":"sheep",
          "name":"Pack Sheep",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -6962,7 +7730,7 @@
       {
          "identifier":"owl",
          "name":"Pack Owl",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7099,7 +7867,7 @@
       {
          "identifier":"love1",
          "name":"Pack Love 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7242,7 +8010,7 @@
       {
          "identifier":"ok",
          "name":"Pack Ok",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7367,7 +8135,7 @@
       {
          "identifier":"memes1",
          "name":"Pack Memes 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7486,7 +8254,7 @@
       {
          "identifier":"pikachu",
          "name":"Pack Pikachu",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7623,7 +8391,7 @@
       {
          "identifier":"pokemon",
          "name":"Pack Pokemon",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7766,7 +8534,7 @@
       {
          "identifier":"squidward",
          "name":"Pack Squidward",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7843,7 +8611,7 @@
       {
          "identifier":"rickandmorty1",
          "name":"Pack Rick and Morty 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -7950,7 +8718,7 @@
       {
          "identifier":"rickandmorty2",
          "name":"Pack Rick and Morty 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8057,7 +8825,7 @@
       {
          "identifier":"patricio",
          "name":"Pack Patricio",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8194,7 +8962,7 @@
       {
          "identifier":"simpsons1",
          "name":"Pack The Simpsons",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8325,7 +9093,7 @@
       {
          "identifier":"diggy2",
          "name":"Diggy 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8468,7 +9236,7 @@
       {
          "identifier":"psy1",
          "name":"Psy 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8629,7 +9397,7 @@
       {
          "identifier":"psy2",
          "name":"Psy 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8784,7 +9552,7 @@
       {
          "identifier":"blanco",
          "name":"Blanco",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -8921,7 +9689,7 @@
       {
          "identifier":"mrcat",
          "name":"Mr Cat",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9040,7 +9808,7 @@
       {
          "identifier":"diggy1",
          "name":"Diggy 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9183,7 +9951,7 @@
       {
          "identifier":"capoo",
          "name":"Capoo",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9380,7 +10148,7 @@
       {
          "identifier":"fluffys",
          "name":"Fluffys",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9541,7 +10309,7 @@
       {
          "identifier":"bicho1",
          "name":"Bicho 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9654,7 +10422,7 @@
       {
          "identifier":"bicho2",
          "name":"Bicho 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9755,7 +10523,7 @@
       {
          "identifier":"pusheen1",
          "name":"Pusheen 1",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -9892,7 +10660,7 @@
       {
          "identifier":"ardilla",
          "name":"Ardilla",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10053,7 +10821,7 @@
       {
          "identifier":"pusheen2",
          "name":"Pusheen 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10190,7 +10958,7 @@
       {
          "identifier":"love2",
          "name":"Love 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10387,7 +11155,7 @@
       {
          "identifier":"love3",
          "name":"Love 3",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10584,7 +11352,7 @@
       {
          "identifier":"love4",
          "name":"Love 4",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10673,7 +11441,7 @@
       {
          "identifier":"love5",
          "name":"Love 5",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10804,7 +11572,7 @@
       {
          "identifier":"love6",
          "name":"Love 6",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -10935,7 +11703,7 @@
       {
          "identifier":"love7",
          "name":"Love 7",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -11096,7 +11864,7 @@
       {
          "identifier":"love8",
          "name":"Love 8",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -11203,7 +11971,7 @@
       {
          "identifier":"love9",
          "name":"Love 9",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -11316,7 +12084,7 @@
       {
          "identifier":"couples",
          "name":"Couples",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
@@ -11399,7 +12167,7 @@
       {
          "identifier":"crazylove",
          "name":"Crazy Love",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
