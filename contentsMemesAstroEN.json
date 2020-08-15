@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"memephraseses1",
-         "name":"Memes with Phrases 1",
+         "name":"Pack 1",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
@@ -123,7 +123,7 @@
       },
       {
          "identifier":"memephraseses2",
-         "name":"Memes with Phrases 2",
+         "name":"Pack 2",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
@@ -224,7 +224,7 @@
       },
       {
          "identifier":"memephraseses3",
-         "name":"Memes with Phrases 3",
+         "name":"Pack 3",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
@@ -331,7 +331,7 @@
       },
       {
          "identifier":"memephraseses4",
-         "name":"Memes with Phrases 4",
+         "name":"Pack 4",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
@@ -408,7 +408,7 @@
       },
       {
          "identifier":"memephraseses5",
-         "name":"Memes with Phrases 5",
+         "name":"Pack 5",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
@@ -515,7 +515,7 @@
       },
       {
          "identifier":"memephraseses6",
-         "name":"Memes with Phrases 6",
+         "name":"Pack 6",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
