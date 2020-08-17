@@ -211,7 +211,7 @@
          "license_agreement_website":"",
          "avoid_cache":false,
          "isAnimated":true,
-         "visible":true,
+         "visible":false,
          "tags":"",
          "stickers":[
             {
