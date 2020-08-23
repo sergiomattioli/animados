@@ -1,15 +1,128 @@
 {
-   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.memephrases",
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.memephrases",
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"memephrasesen1",
+         "identifier":"chavophrases",
+         "name":"Chavo del 8",
+         "publisher":"Ant Space Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "visible":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memephraseses1",
          "name":"Pack 1",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -122,13 +235,13 @@
          ]
       },
       {
-         "identifier":"memephrasesen2",
+         "identifier":"memephraseses2",
          "name":"Pack 2",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -223,13 +336,13 @@
          ]
       },
       {
-         "identifier":"memephrasesen3",
+         "identifier":"memephraseses3",
          "name":"Pack 3",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -330,13 +443,13 @@
          ]
       },
       {
-         "identifier":"memephrasesen4",
+         "identifier":"memephraseses4",
          "name":"Pack 4",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -407,13 +520,13 @@
          ]
       },
       {
-         "identifier":"memephrasesen5",
+         "identifier":"memephraseses5",
          "name":"Pack 5",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -514,13 +627,13 @@
          ]
       },
       {
-         "identifier":"memephrasesen6",
+         "identifier":"memephraseses6",
          "name":"Pack 6",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -591,13 +704,13 @@
          ]
       },
       {
-         "identifier":"memephrasesen7",
+         "identifier":"memephraseses7",
          "name":"Pack 7",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -698,251 +811,13 @@
          ]
       },
       {
-         "identifier":"memestrumpphrasesen",
-         "name":"Pack Trump",
-         "publisher":"Astro Mobile Soft",
-         "tray_image_file":"tray.png",
-         "image_data_version":"1",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "visible":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"harrypotterphraseses",
-         "name":"Harry Potter",
-         "publisher":"Astro Mobile Soft",
-         "tray_image_file":"tray.png",
-         "image_data_version":"1",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "visible":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"memephrasesen8",
+         "identifier":"memephraseses8",
          "name":"Pack 8",
-         "publisher":"Astro Mobile Soft",
+         "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -1053,6 +928,6 @@
                ]
             }
          ]
-      },
+      }
    ]
 }
