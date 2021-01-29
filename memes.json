@@ -349,7 +349,7 @@
          "name":"Frog 3",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
-         "image_data_version":"1",
+         "image_data_version":"2",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
@@ -384,12 +384,6 @@
             },
             {
                "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
                "emojis":[
                   
                ]
