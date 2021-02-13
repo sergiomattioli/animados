@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
+   	{
          "identifier":"togheterwhileapart",
          "name":"Togheter While Apart",
          "publisher":"Astro Mobile Soft",
@@ -13,7 +13,7 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
-         "animated_sticker_pack":true,
+         "isAnimated":true,
          "tags":"",
          "stickers":[
             {
