@@ -1653,7 +1653,7 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
-         "isAnimated":true,
+         "isAnimated":false,
          "tags":"",
          "stickers":[
             {
