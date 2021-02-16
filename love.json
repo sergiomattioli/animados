@@ -209,7 +209,7 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
-         "isAnimated":false,
+         "isAnimated":true,
          "tags":"",
          "stickers":[
             {
