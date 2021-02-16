@@ -7,7 +7,7 @@
          "name":"New Year",
          "publisher":"Ant Space Soft",
          "tray_image_file":"tray.png",
-         "image_data_version":"1",
+         "image_data_version":"2",
          "publisher_website":"",
          "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
@@ -130,7 +130,7 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
-         "image_data_version":"1",
+         "image_data_version":"2",
          "avoid_cache":false,
          "isAnimated":true,
          "stickers":[
@@ -266,7 +266,7 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
-         "image_data_version":"1",
+         "image_data_version":"2",
          "avoid_cache":false,
          "isAnimated":true,
          "stickers":[
@@ -354,7 +354,7 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "tags":"",
-         "image_data_version":"1",
+         "image_data_version":"2",
          "avoid_cache":false,
          "isAnimated":true,
          "stickers":[
