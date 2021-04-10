@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
+   	{
          "identifier":"cowfunny1",
          "name":"Cow Funny 1",
          "publisher":"Astro Mobile Soft",
@@ -2090,12 +2090,6 @@
             },
             {
                "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
                "emojis":[
                   
                ]
