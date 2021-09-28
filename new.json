@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"eljuegodelcalamar1",
-         "name":"El Juego del Calamar 1",
+         "name":"Squid Game (1)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -98,7 +98,7 @@
       },
       {
          "identifier":"eljuegodelcalamar2",
-         "name":"El Juego del Calamar 2",
+         "name":"Squid Game (2)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
