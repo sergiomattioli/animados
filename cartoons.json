@@ -3,6 +3,710 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"minions1",
+         "name":"Minions 1",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"minions2",
+         "name":"Minions 2",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"minions3",
+         "name":"Minions 3",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"minions4",
+         "name":"Minions 4",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"thelittlemermaid1",
+         "name":"The Little Mermaid 1",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"thelittlemermaid2",
+         "name":"The Little Mermaid 2",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"winniethepooh1",
+         "name":"Winnie the Pooh 1",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"winniethepooh2",
+         "name":"Winnie the Pooh 2",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"stitchscrump1",
          "name":"Stitch and Scrump 1",
          "publisher":"Astro Mobile Soft",
