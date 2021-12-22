@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"christmas1",
-         "name":"Christmas (1)",
+         "identifier":"merrychristmas1",
+         "name":"Merry Christmas (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14,7 +14,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"animados, saludos, disney",
+         "tags":"animados, saludos, christmas",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -91,8 +91,8 @@
          ]
       },
       {
-         "identifier":"christmas2",
-         "name":"Christmas (2)",
+         "identifier":"merrychristmas2",
+         "name":"Merry Christmas (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -102,7 +102,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"animados, saludos, disney",
+         "tags":"animados, saludos, christmas",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -179,8 +179,8 @@
          ]
       },
       {
-         "identifier":"christmas3",
-         "name":"Christmas (3)",
+         "identifier":"merrychristmas3",
+         "name":"Merry Christmas (3)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -190,7 +190,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"animados, saludos, disney",
+         "tags":"animados, saludos, christmas",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -267,8 +267,8 @@
          ]
       },
       {
-         "identifier":"christmas4",
-         "name":"Christmas (4)",
+         "identifier":"merrychristmas4",
+         "name":"Merry Christmas (4)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -278,7 +278,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"animados, saludos, disney",
+         "tags":"animados, saludos, christmas",
          "stickers":[
             {
                "image_file":"1.webp",
