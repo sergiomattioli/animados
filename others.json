@@ -264,8 +264,8 @@
          ]
       },
       {
-         "identifier":"what1",
-         "name":"What (1)",
+         "identifier":"what2",
+         "name":"What (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
