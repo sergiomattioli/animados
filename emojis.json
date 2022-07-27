@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"emojis15",
-         "name":"Emojis 15",
+         "identifier":"emoji15",
+         "name":"Emoji 15",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
