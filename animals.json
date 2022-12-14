@@ -3,6 +3,370 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"monkeyblue1",
+         "name":"Monkey Blue (1)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"monkeyblue2",
+         "name":"Monkey Blue (2)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ytkaok1",
+         "name":"Ytka Ok (1)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ytkaok2",
+         "name":"Ytka Ok (2)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"kwonkwonkyu",
          "name":"KwonKwonkYu",
          "publisher":"Astro Mobile Soft",
@@ -71,7 +435,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"bearemoji1",
          "name":"Bear Emoji 1",
@@ -6173,7 +6537,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"snowoo2",
          "name":"Snowoo 2",
@@ -6261,7 +6625,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d1",
          "name":"Gorilla 3d 1",
@@ -6349,7 +6713,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d2",
          "name":"Gorilla 3d 2",
@@ -6437,7 +6801,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d3",
          "name":"Gorilla 3d 3",
@@ -6525,7 +6889,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d4",
          "name":"Gorilla 3d 4",
@@ -6613,7 +6977,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"thesecretlifeofpet1",
          "name":"The Secret Life of Pet 1",
@@ -6701,7 +7065,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"thesecretlifeofpet2",
          "name":"The Secret Life of Pet 2",
@@ -6789,7 +7153,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"doca1",
          "name":"Doca 1",
@@ -6865,7 +7229,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"doca2",
          "name":"Doca 2",
@@ -6947,7 +7311,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"wintercat1",
          "name":"Winter Cat 1",
@@ -10468,91 +10832,91 @@
             {
                "image_file":"1.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"2.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"3.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"4.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"5.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"6.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"7.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"8.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"9.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"10.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"15.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
@@ -10575,91 +10939,91 @@
             {
                "image_file":"1.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"2.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"3.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"4.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"5.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"6.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"7.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"8.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"9.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"10.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"15.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
@@ -12834,7 +13198,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"cowfunny1",
          "name":"Cow Funny 1",
          "publisher":"Astro Mobile Soft",
