@@ -3,741 +3,13 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"christmasornaments1",
-         "name":"Christmas Ornaments (1)",
-         "publisher":"Astro Mobile Soft",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"christmasornaments2",
-         "name":"Christmas Ornaments (2)",
-         "publisher":"Astro Mobile Soft",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },      
-      {
-         "identifier":"merrychristmas5",
-         "name":"Merry Christmas (5)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, christmas",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"merrychristmas1",
-         "name":"Merry Christmas (1)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, christmas",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"merrychristmas2",
-         "name":"Merry Christmas (2)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, christmas",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"merrychristmas3",
-         "name":"Merry Christmas (3)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, christmas",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"merrychristmas4",
-         "name":"Merry Christmas (4)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, christmas",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"frozensnowman",
-         "name":"Frozen Snowman",
+         "identifier":"monkeyblue1",
+         "name":"Monkey Blue (1)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"sweetysanta",
-         "name":"Sweety Santa",
-         "publisher":"Astro Mobile Soft",
-         "tray_image_file":"tray.png",
-         "image_data_version":"1",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "avoid_cache":false,
@@ -837,18 +109,18 @@
          ]
       },
       {
-         "identifier":"snowoo1",
-         "name":"Snowoo 1",
+         "identifier":"monkeyblue2",
+         "name":"Monkey Blue (2)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
+         "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"",
-         "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -921,22 +193,40 @@
                "emojis":[
                   
                ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
             }
          ]
-      },  
+      },
       {
-         "identifier":"snowoo2",
-         "name":"Snowoo 2",
+         "identifier":"ghostbugi1",
+         "name":"Ghost Bugi (1)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
+         "image_data_version":"1",
          "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
+         "publisher_email":"ant.space.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"",
-         "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -1011,7 +301,247 @@
                ]
             }
          ]
-      },  
+      },
+      {
+         "identifier":"ghostbugi2",
+         "name":"Ghost Bugi (2)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ytkaok1",
+         "name":"Ytka Ok (1)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ytkaok2",
+         "name":"Ytka Ok (2)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
       {
          "identifier":"messenger1",
          "name":"Messenger",
@@ -1503,7 +1033,7 @@
                ]
             }
          ]
-      },    
+      },
       {
          "identifier":"bearemoji1",
          "name":"Bear Emoji 1",
@@ -2957,7 +2487,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"halloween14",
          "name":"Halloween 14",
@@ -3063,7 +2593,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"halloween1",
          "name":"Halloween 1",
@@ -4161,7 +3691,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"spottyanimated1",
          "name":"Spotty Animated 1",
@@ -20362,7 +19892,7 @@
                   
                ]
             },
-             {
+            {
                "image_file":"21.webp",
                "emojis":[
                   
@@ -20504,7 +20034,7 @@
                   
                ]
             },
-             {
+            {
                "image_file":"21.webp",
                "emojis":[
                   
@@ -21104,7 +20634,7 @@
                   
                ]
             },
-             {
+            {
                "image_file":"21.webp",
                "emojis":[
                   
@@ -21784,7 +21314,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -21860,7 +21390,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -21936,7 +21466,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -22024,7 +21554,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -22130,7 +21660,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -22236,7 +21766,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -22348,7 +21878,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -22484,7 +22014,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -27604,6 +27134,1016 @@
          ]
       },
       {
+         "identifier":"christmasornaments1",
+         "name":"Christmas Ornaments (1)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"christmasornaments2",
+         "name":"Christmas Ornaments (2)",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"merrychristmas5",
+         "name":"Merry Christmas (5)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, christmas",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"merrychristmas1",
+         "name":"Merry Christmas (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, christmas",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"merrychristmas2",
+         "name":"Merry Christmas (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, christmas",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"merrychristmas3",
+         "name":"Merry Christmas (3)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, christmas",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"merrychristmas4",
+         "name":"Merry Christmas (4)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, christmas",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"frozensnowman",
+         "name":"Frozen Snowman",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"sweetysanta",
+         "name":"Sweety Santa",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "image_data_version":"1",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"snowoo1",
+         "name":"Snowoo 1",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"snowoo2",
+         "name":"Snowoo 2",
+         "publisher":"Astro Mobile Soft",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"ratatouille1",
          "name":"Ratatouille 1",
          "publisher":"Astro Mobile Soft",
@@ -28612,7 +29152,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"snoopy2",
          "name":"Snoopy 2",
@@ -28700,7 +29240,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"snoopy3",
          "name":"Snoopy 3",
@@ -28788,7 +29328,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"snoopy4",
          "name":"Snoopy 4",
@@ -28876,7 +29416,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d1",
          "name":"Gorilla 3d 1",
@@ -28964,7 +29504,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d2",
          "name":"Gorilla 3d 2",
@@ -29052,7 +29592,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d3",
          "name":"Gorilla 3d 3",
@@ -29140,7 +29680,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"gorilla3d4",
          "name":"Gorilla 3d 4",
@@ -29228,7 +29768,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"minions1",
          "name":"Minions 1",
@@ -30138,7 +30678,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"thesecretlifeofpet2",
          "name":"The Secret Life of Pet 2",
@@ -30226,7 +30766,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"doca1",
          "name":"Doca 1",
@@ -30302,7 +30842,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"doca2",
          "name":"Doca 2",
@@ -31065,7 +31605,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"stitchscrump2",
          "name":"Stitch and Scrump 2",
@@ -31153,7 +31693,7 @@
                ]
             }
          ]
-      },      
+      },
       {
          "identifier":"bighero1",
          "name":"Big Hero 1",
@@ -32369,7 +32909,7 @@
                ]
             }
          ]
-      },    
+      },
       {
          "identifier":"cats4",
          "name":"Cats 4",
@@ -37553,7 +38093,7 @@
             }
          ]
       },
-            {
+      {
          "identifier":"wordsanimated1",
          "name":"Words Animated (1)",
          "publisher":"Astro Mobile",
