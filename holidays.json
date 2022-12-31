@@ -893,7 +893,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"retroyear2",
          "name":"Retro Year 2",
@@ -999,7 +999,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"retroyear3",
          "name":"Retro Year 3",
@@ -1105,7 +1105,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"staremoji1",
          "name":"Star Emoji 1",
@@ -1445,7 +1445,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"xmasdeer2",
          "name":"Xmas Dear 2",
@@ -1521,7 +1521,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"xmastree1",
          "name":"Xmas Tree 1",
@@ -1603,7 +1603,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"xmastree2",
          "name":"Xmas Tree 2",
@@ -1691,7 +1691,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"christmasornaments1",
          "name":"Christmas Ornaments (1)",
@@ -2525,7 +2525,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"halloween13",
          "name":"Halloween 13",
@@ -2631,7 +2631,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"halloween14",
          "name":"Halloween 14",
@@ -2737,7 +2737,7 @@
                ]
             }
          ]
-      }, 
+      },
       {
          "identifier":"halloween1",
          "name":"Halloween 1",
@@ -4272,7 +4272,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -4360,7 +4360,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -4466,7 +4466,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -4572,7 +4572,7 @@
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":true,
-         "tags":"",   
+         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -4770,7 +4770,7 @@
                ]
             }
          ]
-      },   
+      },
       {
          "identifier":"elf1",
          "name":"Elf 1",
@@ -5049,7 +5049,7 @@
                ]
             }
          ]
-      },  
+      },
       {
          "identifier":"mardigras1",
          "name":"Happy Mardi Gras",
